@@ -1,6 +1,6 @@
 Airport Traffic Control System
 
-This project is an Airport Management System developed in Java with a JavaFX/Swing-based GUI. It allows for the efficient scheduling and management of airplane landing and departure queues for cargo, private, and commercial flights.
+This is a group project. It is an Airport Management System developed in Java with a JavaFX/Swing-based GUI. It allows for the efficient scheduling and management of airplane landing and departure queues for cargo, private, and commercial flights.
 
 Features:
 
