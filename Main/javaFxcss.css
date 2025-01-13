@@ -1,0 +1,26 @@
+.root {
+	-fx-alignment: CENTER;
+	-fx-background-color: #e3ffff;
+}
+.button:hover{
+	-fx-background-color:white;
+	-fx-text-fill: #120130;
+}
+
+.button { 
+	-fx-background-color:#120130;
+	-fx-text-fill: white;
+	-fx-font-size: 14px;
+	-fx-padding: 3 15 3 15;
+}
+
+.label {
+	-fx-text-fill: #753104;
+	-fx-text-alignment: LEFT;
+	-fx-font-size: 14px;
+	-fx-background-color: transparent;
+}
+
+
+
+
